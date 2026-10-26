@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/giri03-joy/leetcode1/tree/master/1748-sum-of-unique-elements) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/giri03-joy/leetcode1/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/giri03-joy/leetcode1/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
