@@ -6,6 +6,7 @@
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/giri03-joy/leetcode1/tree/master/1748-sum-of-unique-elements) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/giri03-joy/leetcode1/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3668-restore-finishing-order](https://github.com/giri03-joy/leetcode1/tree/master/3668-restore-finishing-order) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/giri03-joy/leetcode1/tree/master/1748-sum-of-unique-elements) |
+| [3668-restore-finishing-order](https://github.com/giri03-joy/leetcode1/tree/master/3668-restore-finishing-order) |
 ## Math
 |  |
 | ------- |
